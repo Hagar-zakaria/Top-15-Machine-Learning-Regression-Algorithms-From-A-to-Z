@@ -29,9 +29,10 @@ Machine learning regression algorithms are essential tools for predicting contin
 **Use Case:** Modeling complex relationships in financial data.
 
 5. Bayesian Ridge Regression
-Overview: Bayesian Ridge Regression applies Bayesian inference to linear regression. It estimates the probability distribution of the coefficients, providing more robust predictions, especially when dealing with limited or uncertain data.
+   
+**Overview:** Bayesian Ridge Regression applies Bayesian inference to linear regression. It estimates the probability distribution of the coefficients, providing more robust predictions, especially when dealing with limited or uncertain data.
 
-Use Case: Predicting house prices by considering uncertainty in the data.
+**Use Case:** Predicting house prices by considering uncertainty in the data.
 
 6. Decision Tree Regression
    
